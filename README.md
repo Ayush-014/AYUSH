@@ -1,5 +1,4 @@
-<img src="./banner.png" alt="Ayush Joshi - Full Stack Developer" 
-     style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);" />
+<img src="./banner.png" alt="Ayush Joshi - Full Stack Developer" />
 
 
 ##  🌐 Connect With Me:
