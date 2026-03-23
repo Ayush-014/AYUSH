@@ -12,8 +12,14 @@
   <img src="https://streak-stats.demolab.com?user=Ayush-014&theme=react" height="160" />
 </p>
 
+<div  align="center" >
+  <a href="https://github.com/Ayush-014">
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=Ayush-014&show_icons=true&theme=radical"/>
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-014&layout=compact&langs_count=7&theme=radical"/>
+</div>
+    
 ---
-
+  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-014&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
